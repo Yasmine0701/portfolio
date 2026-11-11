@@ -115,7 +115,7 @@ Analyse des facteurs expliquant la dépression étudiante et visualisation inter
 ---
 
 ## 🌐 Mon application Shiny
-👉 [Accéder à mon portfolio interactif](https://yasmine-coulibaly.shinyapps.io/portfolio/)
+👉 [Accéder à mon portfolio interactif](https://yasmine-coulibaly.shinyapps.io/portfolio-shiny/)
 
 ---
 
