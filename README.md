@@ -97,4 +97,34 @@ Identification de profils types de clients pour optimiser les campagnes marketin
 
 ### 🧠 Étude de la dépression chez les étudiants
 **Python | Statistiques inférentielles | Power BI**
-Analyse des facteurs expliquant la dépression étudiante et visualisation interactive pour la
+Analyse des facteurs expliquant la dépression étudiante et visualisation interactive pour la recherche académique.
+
+---
+
+## 🧠 Compétences
+
+| Catégorie | Détails |
+|------------|----------|
+| **Finance & Risque** 📈 | VaR, Expected Shortfall, backtesting (Kupiec, Christoffersen), GARCH, théorie des valeurs extrêmes, Monte Carlo |
+| **Statistique & Économétrie** 📐 | Séries temporelles, régression, tests d'hypothèses, bootstrap |
+| **Langages** | Python 🐍, R 📊, SQL 💾 |
+| **Outils & Logiciels** | pandas, NumPy, SciPy, Plotly, Power BI, Excel, Shiny, Streamlit, Git |
+| **Techniques** | Machine Learning, Séries temporelles, Modélisation, Visualisation, Data Cleaning |
+| **Soft Skills** | Rigueur, Communication, Curiosité, Esprit analytique |
+
+---
+
+## 🌐 Mon application Shiny
+👉 [Accéder à mon portfolio interactif](https://yasmine-coulibaly.shinyapps.io/portfolio/)
+
+---
+
+## 📫 Me contacter
+
+📧 **Email :** [coulyas74@gmail.com](mailto:coulyas74@gmail.com)
+💼 **LinkedIn :** [peteninta-lagnon-coulibaly](https://www.linkedin.com/in/peteninta-lagnon-coulibaly)
+💻 **GitHub :** [github.com/Yasmine0701](https://github.com/Yasmine0701)
+
+---
+
+✨ *Merci d'avoir visité mon espace data ! N'hésitez pas à explorer mes projets ou à me contacter pour collaborer.* 💡
